@@ -1,0 +1,40 @@
+experiment raw name,data type,operator time,operator timestamp,operator date,tester,sample name,remark,weight,diameter,length,data collection time,data collection timestamp
+BA-Losert MII E-Modul 28d v. 04.08.14 Probe 5-,DATFile,"13,134766",01.09.2014 14:41:00,01.09.2014,Kh,BA-Losert MII E-Modul 28d v. 04.08.14 Probe 5,"Kraftgeregelt 3,9 kN/s",5365,"98,7","300,2","311,63477",01.09.2014 14:45:59
+Maack 8.2 E-Modul Probe BK 01 B,DATFile,"61,728516",17.07.2014 12:01:41,17.7.2014,"Machura, Be",Maack 8.2 Probe BK 01B,"Kraftgeregelt 3,9 kN/s","5744,5","100,6","300,5","573,74902",17.07.2014 12:10:13
+BA Los M VI-4,DATFile,"29,110352",11.09.2014 13:04:45,11.09.2014,Kh,BA Los M VI-4,"Kraftgeregelt 3,9 kN/s","5354,5","98,5","300,2","475,99316",11.09.2014 13:12:12
+SL51 28d 11.03.14 Probe1,DATFile,"65,649414",08.04.2014 09:38:46,8.4.2014,"Machura, Be",SL51 28d 11.03.14 Probe1,"Kraftgeregelt 3,9 kN/s",3981,"98,6","298,4","266,99316",08.04.2014 09:42:07
+Maack 8.2 Drucklversuch Probe 11 B,DATFile,"78,494141",22.07.2014 07:20:41,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe 11 B,"Kraftgeregelt 3,9 kN/s","5645,2","100,3","299,9","544,35547",22.07.2014 07:28:27
+Hüsken  E-Modul Probe 3-3-,DATFile,"24,374023",18.03.2014 15:29:45,18.3.2014,"Machura, Be",Hsken  E-Modul Probe 3-3,"Kraftgeregelt 3,9 kN/s",5848,99,300,"536,38965",18.03.2014 15:38:17
+Wolf 8.2 Probe 5,DATFile,"20,811523",28.01.2015 11:17:28,28.02.2014,Kh,Wolf 8.2 Probe 5,"Kraftgeregelt 3,9 kN/s","5349,4","98,7","299,8","268,87793",28.01.2015 11:21:36
+SL51 28d 11.03.14 Probe3,DATFile,"80,255859",08.04.2014 09:59:15,8.4.2014,"Machura, Be",SL51 28d 11.03.14 Probe3,"Kraftgeregelt 3,9 kN/s",3906,"98,6","298,2","273,5293",08.04.2014 10:02:28
+Werner 7.0 M III E-Modul 28d v. 06.08.14 Probe 5,DATFile,"25,350586",03.09.2014 08:44:24,03.09.2014,Kh,Werner 7.0 M III E-Modul 28d v. 06.08.14 Probe 5,"Kraftgeregelt 3,9 kN/s","5369,5","98,6","300,4","508,3457",03.09.2014 08:52:27
+Werner 7.0 M III E-Modul 28d v. 06.08.14 Probe 6,DATFile,"18,990234",03.09.2014 08:55:26,03.09.2014,Kh,Werner 7.0 M III E-Modul 28d v. 06.08.14 Probe 6,"Kraftgeregelt 3,9 kN/s","5361,6","98,6","300,4","531,00586",03.09.2014 09:03:58
+BA-Losert MII E-Modul 28d v. 04.08.14 Probe 4,DATFile,"16,138672",01.09.2014 14:30:07,01.09.2014,Kh,BA-Losert MII E-Modul 28d v. 04.08.14 Probe 4,"Kraftgeregelt 3,9 kN/s",5374,"98,6","300,2","387,0752",01.09.2014 14:36:18
+Maack 8.2 Drucklversuch Probe BK 03 B,DATFile,"18,008789",17.07.2014 13:40:47,17.7.2014,"Machura, Be",Maack 8.2 Drucklversuch Probe BK 03 B,"Kraftgeregelt 3,9 kN/s","3803,8","100,6","200,5","530,02344",17.07.2014 13:49:19
+Maack 8.2 Drucklversuch Probe BK 08 B,DATFile,"18,163086",18.07.2014 11:27:36,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe BK 08 B,"Kraftgeregelt 3,9 kN/s","3805,9","100,4","199,5","530,17969",18.07.2014 11:36:08
+Maack 8.2 Drucklversuch Probe BK 09 B,DATFile,"17,188477",18.07.2014 11:40:40,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe BK 09 B,"Kraftgeregelt 3,9 kN/s","3732,5","100,3","200,2","497,39453",18.07.2014 11:48:40
+Maack 8.2 Drucklversuch Probe BK 10 B,DATFile,"20,743164",18.07.2014 11:51:55,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe BK 10 B,"Kraftgeregelt 3,9 kN/s","3776,0","100,3","199,9","532,75879",18.07.2014 12:00:27
+Werner 7.0 M III E-Modul 28d v. 06.08.14 Probe 4,DATFile,"29,318359",03.09.2014 08:36:04,03.09.2014,Kh,Werner 7.0 M III E-Modul 28d v. 06.08.14 Probe 4,"Kraftgeregelt 3,9 kN/s","5350,5","98,6","300,2","303,68164",03.09.2014 08:40:38
+Maack 8.2 E-Modul Probe BK 04 B,DATFile,"17,605469",17.07.2014 12:54:11,17.7.2014,"Machura, Be",Maack 8.2 E-Modul Probe BK 04 B,"Kraftgeregelt 3,9 kN/s","5777,8","100,4","300,5","510,00195",17.07.2014 13:02:24
+Wolf 8.2 Probe 1,DATFile,"43,810547",28.01.2015 10:56:24,28.02.2014,Kh,Wolf 8.2 Probe 1,"Kraftgeregelt 3,9 kN/s",5328,"98,6","300,2","308,25977",28.01.2015 11:00:49
+BA Los M V-5,DATFile,"15,170898",11.09.2014 13:37:55,11.09.2014,Kh,BA Los M V-5,"Kraftgeregelt 3,9 kN/s","5454,6","98,7","300,2","345,61914",11.09.2014 13:43:25
+BA Los M V-4,DATFile,"33,039063",11.09.2014 13:31:54,11.09.2014,Kh,BA Los M V-4,"Kraftgeregelt 3,9 kN/s","5428,5","98,5","300,2","368,00684",11.09.2014 13:37:29
+BA Los M V-6,DATFile,"20,530273",11.09.2014 13:43:57,11.09.2014,Kh,BA Los M V-6,"Kraftgeregelt 3,9 kN/s","5439,0","98,6","300,1","324,06641",11.09.2014 13:49:01
+BA Los M VI-5-,DATFile,"40,182617",11.09.2014 13:14:09,11.09.2014,Kh,BA Los M VI-5,"Kraftgeregelt 3,9 kN/s","5340,6","98,5","300,2","482,07813",11.09.2014 13:21:31
+BA-Losert MI E-Modul 28d v. 04.08.14 Probe 6,DATFile,"13,897461",01.09.2014 13:42:28,01.09.2014,Kh,BA-Losert E-Modul 28d v. 04.08.14 Probe 6,"Kraftgeregelt 3,9 kN/s",5314,"300,6","98,6","525,91602",01.09.2014 13:51:00
+Werner 7.0 M IV E-Modul 28d v. 06.08.14 Probe 5,DATFile,"12,391602",03.09.2014 09:21:10,03.09.2014,Kh,Werner 7.0 M IV E-Modul 28d v. 06.08.14 Probe 5,"Kraftgeregelt 3,9 kN/s","5351,9","98,7","300,2","351,94727",03.09.2014 09:26:49
+BA-Losert MI E-Modul 28d v. 04.08.14 Probe 5,DATFile,"19,696289",01.09.2014 13:33:10,01.09.2014,Kh,BA-Losert E-Modul 28d v. 04.08.14 Probe 5,"Kraftgeregelt 3,9 kN/s",5404,"300,2","98,7","365,68359",01.09.2014 13:38:56
+Hüsken  E-Modul Probe 2-1,DATFile,"56,78418",18.03.2014 15:46:41,18.3.2014,"Machura, Be",Hsken  E-Modul Probe 2-1,"Kraftgeregelt 3,9 kN/s",5853,100,300,"568,80078",18.03.2014 15:55:13
+Maack 8.2 Drucklversuch Probe BK 06 B,DATFile,"16,369141",18.07.2014 10:38:54,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe BK 06 B,"Kraftgeregelt 3,9 kN/s","3785,7","100,2","200,6","528,38574",18.07.2014 10:47:26
+Werner 7.0 M IV E-Modul 28d v. 06.08.14 Probe 6,DATFile,"13,839844",03.09.2014 09:30:43,03.09.2014,Kh,Werner 7.0 M IV E-Modul 28d v. 06.08.14 Probe 6,"Kraftgeregelt 3,9 kN/s","5335,7","98,6","300,4","283,13086",03.09.2014 09:35:12
+BA-Losert MI E-Modul 28d v. 04.08.14 Probe 4,DATFile,"33,796875",01.09.2014 13:25:39,01.09.2014,Kh,BA-Losert E-Modul 28d v. 04.08.14 Probe 4,"Kraftgeregelt 3,9 kN/s",5342,"300,3","98,6","320,02344",01.09.2014 13:30:25
+Wolf 8.2 Probe 4,DATFile,"20,076172",28.01.2015 11:08:33,28.02.2014,Kh,Wolf 8.2 Probe 4,"Kraftgeregelt 3,9 kN/s","5352,4","98,6","300,3","327,85742",28.01.2015 11:13:41
+Hüsken  E-Modul Probe 3-1-,DATFile,"11,77832",18.03.2014 16:02:24,18.3.2014,"Machura, Be",Hsken  E-Modul Probe 3-1,"Kraftgeregelt 3,9 kN/s",5830,100,300,"523,79492",18.03.2014 16:10:56
+Maack 8.2 Drucklversuch Probe B2B2,DATFile,"32,397461",22.07.2014 07:09:17,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe B2B2,"Kraftgeregelt 3,9 kN/s","3785,9","100,4","199,1","532,22168",22.07.2014 07:17:37
+Maack 8.2 Drucklversuch Probe BK 05 B,DATFile,"23,445313",18.07.2014 08:28:32,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe BK 05 B,"Kraftgeregelt 3,9 kN/s","3758,2","100,6","200,2","535,46094",18.07.2014 08:37:04
+SL51 28d 11.03.14 Probe2,DATFile,"26,391602",08.04.2014 09:54:10,8.4.2014,"Machura, Be",SL51 28d 11.03.14 Probe2,"Kraftgeregelt 3,9 kN/s",3903,"98,7","298,1","225,92578",08.04.2014 09:57:30
+BA-Losert MII E-Modul 28d v. 04.08.14 Probe 6,DATFile,"21,249023",01.09.2014 14:48:39,01.09.2014,Kh,BA-Losert MII E-Modul 28d v. 04.08.14 Probe 6,"Kraftgeregelt 3,9 kN/s",5359,"98,6","299,8","300,04297",01.09.2014 14:53:18
+Werner 7.0 M IV E-Modul 28d v. 06.08.14 Probe 4,DATFile,"19,149414",03.09.2014 09:13:28,03.09.2014,Kh,Werner 7.0 M IV E-Modul 28d v. 06.08.14 Probe 4,"Kraftgeregelt 3,9 kN/s","5392,1","98,6","300,3","315,56152",03.09.2014 09:18:25
+BA Los M VI-6,DATFile,"17,580078",11.09.2014 13:22:36,11.09.2014,Kh,BA Los M VI-6,"Kraftgeregelt 3,9 kN/s","5367,6","98,7","300,3","485,61133",11.09.2014 13:30:24
+Maack 8.2 Drucklversuch Probe BK 07 B,DATFile,"18,459961",18.07.2014 10:50:53,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe BK 07 B,"Kraftgeregelt 3,9 kN/s","3810,5","100,3","200,3","530,47559",18.07.2014 10:59:25
+Maack 8.2 Drucklversuch Probe BK 12 B,DATFile,"20,602539",18.07.2014 12:54:15,18.7.2014,Kh,Maack 8.2 Drucklversuch Probe BK 12 B,"Kraftgeregelt 3,9 kN/s","3425,7","100,4","180,4","532,61914",18.07.2014 13:02:47
